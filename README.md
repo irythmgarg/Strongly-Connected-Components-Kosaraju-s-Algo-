@@ -64,5 +64,5 @@ Solution sol;
 int sccCount = sol.kosaraju(V, adj);
 cout << "Number of SCCs: " << sccCount << endl;  // Output: 3
 👨‍💻 Author
-Your Name – @irythmgarg[Ridham Garg]
+Author Name – @irythmgarg[Ridham Garg]
 
